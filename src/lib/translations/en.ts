@@ -85,6 +85,7 @@ export const en = {
         germany: "Germany",
         contactInformation: "Contact information",
         email: "Email",
+        phone: "Phone",
         euDisputeResolution: "EU dispute resolution",
         theEuropeanCommissionProvides:
             "The European Commission provides a platform for online dispute resolution (ODR)",

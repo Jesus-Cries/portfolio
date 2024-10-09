@@ -16,7 +16,7 @@
             <p>
                 The privacy policy is currently only available in German, as the primary target
                 audience of this website is German-speaking. If you have any questions or need
-                assistance, please contact me at leon.oberm@gmail.com for more information.
+                assistance, please contact me at leon@obrm.de for more information.
             </p>
         {/if}
 
@@ -130,7 +130,7 @@
             Deutschland
         </p>
 
-        <p>E-Mail: leon.oberm@gmail.com</p>
+        <p>E-Mail: leon@obrm.de</p>
         <p>
             Verantwortliche Stelle ist die nat&uuml;rliche oder juristische Person, die allein oder
             gemeinsam mit anderen &uuml;ber die Zwecke und Mittel der Verarbeitung von

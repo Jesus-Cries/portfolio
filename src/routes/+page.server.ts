@@ -54,7 +54,7 @@ export const actions = {
             // Build email object
             const newEmail = {
                 from: GOOGLE_EMAIL,
-                to: "leon.oberm@gmail.com",
+                to: "leon@obrm.de",
                 subject: "Portfolio Contact Form",
                 html: html,
             }

@@ -56,7 +56,7 @@
                 },
                 {
                     name: "Email",
-                    link: "mailto:leon.oberm@gmail.com",
+                    link: "mailto:leon@obrm.de",
                 },
             ],
         },

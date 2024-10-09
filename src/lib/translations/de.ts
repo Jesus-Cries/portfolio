@@ -88,6 +88,7 @@ export const de: ITranslation = {
         germany: "Deutschland",
         contactInformation: "Kontaktdaten",
         email: "E-Mail",
+        phone: "Telefon",
         euDisputeResolution: "EU-Streitschlichtung",
         theEuropeanCommissionProvides:
             "Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit",
